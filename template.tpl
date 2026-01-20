@@ -33,7 +33,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "sourceId",
-    "displayName": "Smartarget Account ID",
+    "displayName": "Smartarget Account ID (https://app.smartarget.online/#/preview/webiste/whatsapp)",
     "simpleValueType": true,
     "help": "Enter your Smartarget account ID. You can find this in your Smartarget dashboard.",
     "valueValidators": [
