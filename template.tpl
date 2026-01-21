@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Smartarget Whatsapp Chat",
-  "categories": ["Chat"],
+  "categories": ["CHAT"],
   "brand": {
     "id": "brand_dummy_id",
     "displayName": "Smartarget Whatsapp Chat",
@@ -150,5 +150,6 @@ scenarios: []
 
 
 ___NOTES___
+
 
 Created for Smartarget integration with Google Tag Manager.
