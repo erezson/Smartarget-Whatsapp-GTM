@@ -2,6 +2,5 @@ homepage: "https://smartarget.online/"
 documentation: "https://github.com/erezson/Smartarget-Whatsapp-GTM/blob/main/README.md"
 versions:
   # Latest version
-  - sha: 57e4f3d6cf5a25ecec55efab55f80febf4154973
-    changeNotes: Initial release of Whatsapp Chat by Smartarget for GTM.
-
+  - sha: 4a8da5ae746018a92522710184a8d259f4b28919
+    changeNotes: Updated template and published latest SHA.
