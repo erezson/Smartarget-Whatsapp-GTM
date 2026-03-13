@@ -62,7 +62,8 @@ const queryPermission = require('queryPermission');
 
 // Get the ID from the user input into the text field
 const id = data.sourceId;
-const url = 'https://smartarget.online/loader.js?u=' + id + '&source=gtm';
+const encode = require('encodeUriComponent');
+const url = 'https://smartarget.online/loader.js?u=' + encode(id) + '&source=gtm';
 
 // If the user chose to log debug output, initialize the logging method
 const log = data.debug ? logToConsole : (() => {});
